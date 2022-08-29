@@ -3,14 +3,21 @@ Performed analysis on how a computer hardware manufacturer company is facing iss
 
 #PURPOSE
 To unlock sales insights that are not visible before for sales team for decision support and automate them to reduced manual time spent in data gathering.
+
+
 #STAKEHOLDERS
 Sales director
 Marketing team 
 Customer service team 
 Data analytics Team 
 IT eam 
+
+
 #END RESULT
 An automated dashboard providing quick and latest sales insights in order to support data driven desicion making. 
+
+
+
 #SUCCESS CRITERIA 
 Dashboard provided uncovering sales insights 
 sales team able to take better desicions and prove 10% cost saving
